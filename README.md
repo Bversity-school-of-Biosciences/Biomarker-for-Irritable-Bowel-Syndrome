@@ -50,6 +50,6 @@ Import to Tableau: Visualize filtered data with bar graphs or heatmaps.
 Configure Charts: Include fold change, p-value, and average expression for IBS subtypes and controls. Use colors to highlight genes with significant changes.
 
 
-**Insights and Application **
+**Insights and Application**
 
 The analysis highlights differentially expressed genes linked to IBS, helping to pinpoint biomarkers for non-invasive diagnostics or personalized therapies. Further exploration can assess gene roles in inflammation or gut barrier dysfunction, aiding in therapeutic advancements.
